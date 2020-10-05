@@ -27,7 +27,7 @@ You are not permitted to:
 *   Use the Website in any way which breaches any applicable local, national or international law
 *   use the Website for any purpose that SwedishStudios Games considers is a breach of this EULA agreement
 
-### Intellectual Property and Ownership
+### Intellectual Property and Co-Ownership
 
 SwedishStudios Games shall at all times retain ownership of the Website as originally downloaded by you and all subsequent downloads of the Website by you. The Website (and the copyright, and other intellectual property rights of whatever nature in the Website, including any modifications made thereto) are and shall remain the property of SwedishStudios Games.
 
