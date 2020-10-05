@@ -1,4 +1,4 @@
-# End-User License Agreement (EULA) of Website
+# End-User License Agreement (EULA) of the Website source code.
 --------------------------------------------
 
 This End-User License Agreement ("EULA") is a legal agreement between you and SwedishStudios Games. Our EULA was created by [EULA Template](https://www.eulatemplate.com) for the Website.
