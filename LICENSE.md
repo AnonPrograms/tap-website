@@ -7,17 +7,17 @@ This EULA agreement governs your acquisition and use of our Website ("Source cod
 
 Please read this EULA agreement carefully before completing the installation process and using the Website. It provides a license to use the Website and contains warranty information and liability disclaimers.
 
-If you register for a free trial of the Website software, this EULA agreement will also govern that trial. By clicking "accept" or installing and/or using the Website, you are confirming your acceptance of the Website and agreeing to become bound by the terms of this EULA agreement.
+If you register for a free trial of the Website, this EULA agreement will also govern that trial. By clicking "accept" or installing and/or using the Website, you are confirming your acceptance of the Website and agreeing to become bound by the terms of this EULA agreement.
 
 If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Website, and you must not accept this EULA agreement.
 
-This EULA agreement shall apply only to the Website supplied by SwedishStudios Games herewith regardless of whether other software is referred to or described herein. The terms also apply to any SwedishStudios Games updates, supplements, Internet-based services, and support services for the Website, unless other terms accompany those items on delivery. If so, those terms apply.
+This EULA agreement shall apply only to the Website supplied by SwedishStudios Games herewith regardless of whether other Websites is referred to or described herein. The terms also apply to any SwedishStudios Games updates, supplements, Internet-based services, and support services for the Website, unless other terms accompany those items on delivery. If so, those terms apply.
 
 ### License Grant
 
-SwedishStudios Games hereby grants you a personal, non-transferable, non-exclusive licence to use the Website software on your devices in accordance with the terms of this EULA agreement.
+SwedishStudios Games hereby grants you a personal, non-transferable, non-exclusive licence to use the Website on your devices in accordance with the terms of this EULA agreement.
 
-You are permitted to load the Website (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the Website.
+You are permitted to load the Website (for example on a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the Website.
 
 You are not permitted to:
 
