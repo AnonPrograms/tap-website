@@ -18,8 +18,8 @@ a{text-decoration:none;text-align:center;}
 p{width:90%;}
 article{text-align:center;float:right;width:50%;height:80%;background-color:#444;}
 footer{text-align:center;color:#333;background-color:#444;}
-h1txt{color:#999;}
-h1txt2{color:#006400;}
-h1txt3{color:#32cd32;}
-hntxt{background-color:#1e1e1e;color:aaa;}
-ftxt{color:#555;}
+#h1txt{color:#999;}
+#h1txt2{color:#006400;}
+#h1txt3{color:#32cd32;}
+#hntxt{background-color:#1e1e1e;color:aaa;}
+#ftxt{color:#555;}
