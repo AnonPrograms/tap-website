@@ -3,7 +3,7 @@ header{text-align:center;font-family:Arial,Helvetica,sans-serif;margin:auto;}
 #shadow{box-shadow:1px 1.5px #333;margin:auto;border:1px solid #101010;border-radius:0px 0px 28px 28px;width:80%;background-color:#333;}
 #shadow2{background-color:#444;box-shadow:1px 1.5px #333;margin:auto;width:80%;border:1px solid #101010;}
 div.center{border:1px solid #dedede;margin:auto;background:url(https://www.swedishstudiosgames.com/root/lib/assets/gfx/img/bnr/bgimg/white_brick_wall_4k.png) no-repeat;padding:15px 15px 0px 0px;}
-.navbar{border-radius:0px 0px 15px 15px;margin:auto;text-align:center;overflow:hidden;background-color:#333;font-family:Arial,Helvetica,sans-serif;}
+.navbar{border-radius:0px 0px 24px 24px;margin:auto;text-align:center;overflow:hidden;background-color:#333;font-family:Arial,Helvetica,sans-serif;}
 .navbar a{float:left;font-size:12px;color:#dedede;text-align:center;padding:12px 14px;text-decoration:none;}
 .dropdown{float:left;overflow:hidden;}
 .dropdown .dropbtn{cursor:pointer;font-size:16px;border:none;outline:none;color:#dedede;padding:14px 16px;background-color:inherit;font-family:inherit;margin:0;}
