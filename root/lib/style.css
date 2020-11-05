@@ -3,6 +3,7 @@ header{text-align:center;font-family:Arial,Helvetica,sans-serif;margin:auto;}
 #shadow{box-shadow:1px 1.5px #333;margin:auto;border:1px solid #101010;border-radius:0px 0px 28px 28px;width:80%;background-color:#333;}
 #shadow2{background-color:#444;box-shadow:1px 1.5px #333;margin:auto;width:80%;border:1px solid #101010;}
 #hntxt{background-color:#111;color:#1b1b1b;}
+#nbtn{height:20px;width:20px;}
 #bnrbg{background:url(https://www.swedishstudiosgames.com/root/lib/assets/gfx/img/bnr/bgimg/tap-bnrbg.png) no-repeat;height:69px;width:420px;}
 div.center{border:1px solid #dedede;margin:auto;background:url(https://www.swedishstudiosgames.com/root/lib/assets/gfx/img/bnr/bgimg/white_brick_wall_4k.png) no-repeat;padding:15px 15px 0px 0px;}
 .navbar{border-radius:0px 0px 16px 16px;margin:auto;text-align:center;overflow:hidden;background-color:#191919;font-family:Arial,Helvetica,sans-serif;}
