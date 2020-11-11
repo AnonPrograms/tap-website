@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',function(){cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palette":"dark","language":"en","website_name":"SwedishStudios Games","change_preferences_selector":"#changePreferences"});});
