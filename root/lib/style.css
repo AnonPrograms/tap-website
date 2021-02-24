@@ -1,6 +1,6 @@
 body{background-color:#444;background:url(https://www.swedishstudiosgames.com/root/lib/assets/gfx/img/bnr/bgimg/bg.png) no-repeat;margin:0px 8px 8px 8px;}
 header{text-align:center;font-family:Arial,Helvetica,sans-serif;margin:auto;}
-#shadow{box-shadow:1px 1.5px #333;margin:auto;border:1px solid #101010;border-radius:0px 0px 28px 28px;width:80%;background-color:#333;}
+#shadow{box-shadow:1px 1.5px #333;margin:auto;width:80%;border:1px solid #101010;border-radius:0px 0px 28px 28px;width:80%;background-color:#333;}
 #shadow2{background-color:#444;box-shadow:1px 1.5px #333;margin:auto;width:80%;border:1px solid #101010;}
 #shadow3{background-color:#444;box-shadow:1px 1.5px #333;margin:auto;width:99%;border:1px solid #101010;text-align:center-left}
 #bnrbg{background:url(https://www.swedishstudiosgames.com/root/lib/assets/gfx/img/bnr/bgimg/ssg-wm.png) no-repeat;height:48px;width:420px;}
