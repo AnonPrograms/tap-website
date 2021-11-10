@@ -1,19 +1,19 @@
 @charset "utf-8";
 @viewport{width:device-width;}
-body{background-color:#444;background:url(https://www.theanonprograms.tk/root/lib/assets/gfx/img/bnr/bgimg/bg.png) no-repeat;margin:0px 8px 8px 8px;}
+body{background-color:#444;background:url(https://theanonprograms.tk/root/lib/assets/gfx/img/bnr/bgimg/bg.png) no-repeat;margin:0px 8px 8px 8px;}
 header{text-align:center;font-family:Arial,Helvetica,sans-serif;margin:auto;}
 #shdw{box-shadow:1px 1.5px #333;margin:auto;border:1px solid #101010;border-radius:0px 0px 28px 28px;width:80%;background-color:#333;}
 #shdw2{background-color:#444;box-shadow:1px 1.5px #333;margin:auto;width:80%;border:1px solid #101010;}
 #shdw3{background-color:#444;box-shadow:1px 1.5px #333;margin:auto;width:auto;border:1px solid #101010;text-align:center-left;}
-#bnrbg{background:url(https://www.theanonprograms.tk/root/lib/assets/gfx/img/bnr/bgimg/tap-wm.png) no-repeat;height:48px;width:420px;}
+#bnrbg{background:url(https://theanonprograms.tk/root/lib/assets/gfx/img/bnr/bgimg/tap.png) no-repeat;height:48px;width:420px;}
 #tmptxt{text-align:center;}
-#nvbtn{height:20px;width:20px;}
+#nbtn{height:16px;width:16px;}
 #gtxt{color:#000;}
 #ftxt{text-align:center;color:#555;}
 #gtm{height:0;width:0;display:none;visibility:hidden;}
-div.cntr{padding:15px 0px;border:1px solid #dedede;margin:auto;background:url(https://www.theanonprograms.tk/root/lib/assets/gfx/img/bnr/bgimg/white_brick_wall_4k.png) no-repeat;}
-#nvbr{border-radius:0px 0px 28px 28px;margin:auto;text-align:center;overflow:hidden;background-color:#333;font-family:Arial,Helvetica,sans-serif;}
-#nvbr a{float:left;font-size:12px;color:#dedede;text-align:center;padding:12px 14px;text-decoration:none;}
+div.cntr{padding:15px 0px;border:1px solid #dedede;margin:auto;background:url(https://theanonprograms.tk/root/lib/assets/gfx/img/bnr/bgimg/white_brick_wall_4k.png) no-repeat;}
+#nbr{border-radius:0px 0px 28px 28px;margin:auto;text-align:center;overflow:hidden;background-color:#333;font-family:Arial,Helvetica,sans-serif;}
+#nbr a{float:left;font-size:12px;color:#dedede;text-align:center;padding:12px 14px;text-decoration:none;}
 #drpdwn{float:left;overflow:hidden;}
 #drpdwn #drpbtn{cursor:pointer;font-size:16px;border:none;outline:none;color:#dedede;padding:14px 16px;background-color:inherit;font-family:inherit;margin:0;}
 #nvbr a:hover,#drpdwn:hover #drpbtn,#drpbtn:focus{background-color:#1e1e1e;color:#aaa;}
