@@ -44,4 +44,5 @@ It will also terminate immediately if you fail to comply with any term of this E
 This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of Sweden.
 
 
-###### Legal name: _Isac Melin Eklund_
+###### Legal name: _Isac M. Eklund_
+                   _Lukas Akdogan_
